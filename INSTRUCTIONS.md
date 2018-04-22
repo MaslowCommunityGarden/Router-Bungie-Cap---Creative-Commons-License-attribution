@@ -1,6 +1,4 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page instructions tab [here](http://maslowcommunitygarden.org/Website.html)
+This is ~3.5 inches wide- 3D print. It goes on Upsidedown on the ridged router. This leaves the vent holes uncovered and allows the cap surface to engage the rubber surfaced of the ridged router. 
 
 
 
